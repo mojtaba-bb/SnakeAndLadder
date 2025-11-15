@@ -9,23 +9,23 @@
 
 # 📌 Features
 ###    1. Terminal version
->          Simple execution in the terminal
->          Player turn management
->          Random dice
->          Move on the game board with the rules of the game Snakes and Ladders
->          Suitable for teaching game logic and practicing basic Python.
+> Simple execution in the terminal
+> Player turn management
+> Random dice
+> Move on the game board with the rules of the game Snakes and Ladders
+> Suitable for teaching game logic and practicing basic Python.
 ###   2. Graphical version (Tkinter GUI)
->          Attractive and clickable user interface
->          Visual display of the snakes and ladders screen
->          Real-time display of player positions
->          Button to roll dice
->          Use PNG images with transparent backgrounds for the beads
->          Good for learning Python GUI and event handling
+> Attractive and clickable user interface
+> Visual display of the snakes and ladders screen
+> Real-time display of player positions
+> Button to roll dice
+> Use PNG images with transparent backgrounds for the beads
+> Good for learning Python GUI and event handling
 
 
 # 🛠 Technologies
->          Python 3
->          Tkinter (for graphical version)
+> Python 3
+> Tkinter (for graphical version)
 
 
 # 🚀 How to run
